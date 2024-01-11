@@ -1,0 +1,25 @@
+nav{
+    background-color: #10634ee6;
+    width: 100%;
+    .navbar{
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+        align-items: center;
+        font-family: 'Salsa', cursive;
+
+        .floralstudio{
+            font-size: 40px;
+            a{
+                color: white;
+            }
+
+        }
+        .floralstudio_navbar ul{
+            display: flex;
+            gap: 40px;
+            font-size: 20px;
+            color: #ffffff95;
+        }
+    }
+}

@@ -1,0 +1,80 @@
+.slider{
+    width: 100%;
+    height: 100%;
+    .sliderimg{
+        background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl1-967x725.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        width: 100%;
+        height: 80vh;
+        div{
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+            color: #10634ee6;
+            p{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 40px;
+            }
+            span{
+                font-size: 22px;
+                font-style: italic;
+            }
+        }
+    }
+    .sliderimg2{
+        background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl4.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        width: 100%;
+        height: 80vh;
+        div{
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+            color: #10634ee6;
+            p{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 40px;
+            }
+            span{
+                font-size: 22px;
+                font-style: italic;
+            }
+        }
+    }
+    .sliderimg3{
+        background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl7.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        width: 100%;
+        height: 80vh;
+        div{
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+            color: #10634ee6;
+            p{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 40px;
+            }
+            span{
+                font-size: 22px;
+                font-style: italic;
+            }
+        }
+    }
+  
+}
